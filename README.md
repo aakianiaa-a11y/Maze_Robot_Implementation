@@ -30,3 +30,10 @@ The design of the mechanical parts of this robot was a bit challenging because n
 * Wooden parts which are cut using laser cut
 
   ![SolidWorks designing and assembling](Media/RoboMaze.jpg)
+
+
+  And eventually that's it 😎
+
+  
+  ![Implementung the Ribot](Media/ImplementingVideo.MP4)
+  
