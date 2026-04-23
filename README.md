@@ -20,4 +20,4 @@ The design of the mechanical parts of this robot was a bit challenging because n
 
 
 ### Robot Components:
-   ** ggg**
+*  ** ggg**
