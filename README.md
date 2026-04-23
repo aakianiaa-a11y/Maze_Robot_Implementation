@@ -35,5 +35,5 @@ The design of the mechanical parts of this robot was a bit challenging because n
   And eventually that's it 😎
 
   
-  ![Implementung the Ribot](Media/ImplementingVideo.MP4)
+  ![Implementung the Robot](Media/ImplementingVideo.MP4)
   
