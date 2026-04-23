@@ -20,4 +20,13 @@ The design of the mechanical parts of this robot was a bit challenging because n
 
 
 ### Robot Components:
-*  ** ggg**
+* Arduino Nano
+* L298 - motor drivers
+* 2x  DC motors
+* 9v Battery
+* Ultrasonic modual
+* MicroServo SG90
+* m3-screws_ and nuts
+* Wooden parts which are cut using laser cut
+
+  ![SolidWorks designing and assembling](Media/RoboMaze.jpg)
