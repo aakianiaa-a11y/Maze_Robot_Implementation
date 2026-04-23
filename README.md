@@ -7,8 +7,6 @@ This is a research project that was carried out to improve the algorithm, but in
 
 
 ![SolidWorks designing and assembling](Media/Maze_robot_Solid.JPG)
-                                                         SolidWorks designing and assembling
-
                                                          
                                                                
 
@@ -16,4 +14,6 @@ This is a research project that was carried out to improve the algorithm, but in
 
 
 The design of the mechanical parts of this robot was a bit challenging because not only were the electronic modules small and sensitive to impact, but their assembly was a difficult task that had to be taken into account during the design. In building this robot, minimal design was one of the essential factors in its construction.
+
+![SolidWorks designing and assembling](Media/Maze_Robot.png)
 
