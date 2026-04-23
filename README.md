@@ -6,8 +6,8 @@ This is a research project that was carried out to improve the algorithm, but in
 
 
 
-
-<img src="Media/Maze_robot_Solid.JPGg" width="400" title="توضیح عکس">
+![SolidWorks designing and assembling](Media/Maze_robot_Solid.JPG)
+<img src="Media/Maze_robot_Solid.JPGg" width="250" title="SolidWorks designing and assembling">
 
 
 
