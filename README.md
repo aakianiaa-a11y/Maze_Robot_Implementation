@@ -17,3 +17,7 @@ The design of the mechanical parts of this robot was a bit challenging because n
 
 ![SolidWorks designing and assembling](Media/Maze_Robot.png)
 
+
+
+### Robot Components:
+   ** ggg**
