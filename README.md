@@ -7,7 +7,10 @@ This is a research project that was carried out to improve the algorithm, but in
 
 
 ![SolidWorks designing and assembling](Media/Maze_robot_Solid.JPG)
-<img src= title="SolidWorks designing and assembling"/>
+                                                         SolidWorks designing and assembling
+
+                                                         
+                                                               
 
 
 
